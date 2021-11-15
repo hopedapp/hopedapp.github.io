@@ -1,1 +1,1 @@
-window._config={};
+window.__app_config__={};
