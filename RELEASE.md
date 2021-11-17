@@ -69,3 +69,9 @@
 > Release v0.1.2
  Publish At: 2021-11-17 By nproxy<shopee.gray@gmail.com>
 ---
+
+# Version 0.2.0-41edcf0
+    
+> Release v0.2.0
+ Publish At: 2021-11-18 By nproxy<shopee.gray@gmail.com>
+---
