@@ -1,0 +1,1 @@
+window.__app_config__={};
