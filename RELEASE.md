@@ -195,3 +195,9 @@
 > Release v1.0.0
  Publish At: 2021-11-28 By nproxy<shopee.gray@gmail.com>
 ---
+
+# Version 1.0.0-af4d48c
+    
+> Release v1.0.0
+ Publish At: 2021-11-28 By nproxy<shopee.gray@gmail.com>
+---
