@@ -243,3 +243,9 @@
 > Release v1.0.4
  Publish At: 2021-11-30 By nproxy<shopee.gray@gmail.com>
 ---
+
+# Version 1.0.5-57483ad
+    
+> Release v1.0.5
+ Publish At: 2021-11-30 By nproxy<shopee.gray@gmail.com>
+---
